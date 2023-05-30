@@ -8,4 +8,6 @@ some new info add here
 
 all other deleted 
 
-added some new features  
+added some new features 
+
+some more features form feature2 branch 
