@@ -11,3 +11,9 @@ all other deleted
 added some new features 
 
 some more features form feature2 branch 
+
+patch release 1.0
+
+patch 1.01 
+
+patch 1.02
